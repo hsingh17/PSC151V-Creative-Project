@@ -1,0 +1,9 @@
+button {
+    width: fit-content;
+    width: clamp(9rem, 50%, 200px);
+    background-color: #FFFFFF !important; 
+}
+
+button > h1 {
+    color: #121212;
+}

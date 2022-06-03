@@ -14,8 +14,6 @@ function Question(props) {
     let text_clr = clrs[1][1]
     let background_clr = clrs[2][1]
 
-    console.log(text, text_clr, background_clr)
-
     return (
         <Container>
             <Row 
@@ -28,7 +26,7 @@ function Question(props) {
             </Row>
 
             <Row className='text-center'>
-                <h2>{QUESTIONS[q_type]}</h2>        
+                <h2 style={{color : "#FFFFFF"}}>{QUESTIONS[q_type]}</h2>        
             </Row>
         </Container>
     )
