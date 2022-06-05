@@ -1,0 +1,29 @@
+@keyframes decrease {
+    0% {
+        width: 99%;
+    }
+
+    100% {
+        width: 0%;
+    }
+}
+
+div {
+    border-radius: 25px;
+}
+
+#outer-bar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80vw;
+    height: 7vh;
+    background-color: #FFFFFF;
+}
+
+#inner-bar {
+    width: 99%;
+    height: 60%;
+    background-color: #BB86FC;
+    animation: decrease 3s linear 0s infinite forwards;
+}

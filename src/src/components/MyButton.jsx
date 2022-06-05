@@ -10,7 +10,7 @@ function MyButton(props) {
     }
     
     return (
-        <Button ref={btn_ref} onClick={select_ans}><h1>{props.clr[0]}</h1></Button> 
+        <Button ref={btn_ref} onClick={select_ans} id='choice-btn'><h1>{props.clr[0]}</h1></Button> 
     )
 }
 

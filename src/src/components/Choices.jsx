@@ -1,7 +1,6 @@
 import Row from 'react-bootstrap/Row'
 import Col from 'react-bootstrap/Col'
 import MyButton from './MyButton'
-import { useEffect, useState } from 'react'
 
 function Choices(props) {
     const clrs = Array.from(props.clrs)
