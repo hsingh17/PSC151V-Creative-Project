@@ -20,7 +20,7 @@ const COLORS = {
 
 const 
     ANSWER_TIME = 3000,
-    MAX_QUESTIONS = 5
+    MAX_QUESTIONS = 10
 
 function get_rand_colors() {
     // Get unique random colors to choose from
