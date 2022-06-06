@@ -5,7 +5,7 @@ For my final project for PSC151V at UC Davis, I had to explain my favorite conce
 
 
 ## Video lecture
-If you don't want to read this `README`, then check out this short video I made for the assignment submission.
+If you don't want to read this `README`, then check out [this short video](https://youtu.be/kqw54eAXa4I) I made for the assignment submission.
 
 
 ## What are schemas?
