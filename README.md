@@ -30,8 +30,8 @@ The relevance of my creative project to schemas is that the player must overcome
 ## What technologies did I use for this project?
 Since this was a fairly simply project, I only used [ReactJS](https://reactjs.org/).
 
-## How can you play?
-I have hosted the game on Heroku [here](https://schema-game.herokuapp.com), so feel free to play.
+## How can you play? [*Deprecated*]
+*I have hosted the game on Heroku [here](https://schema-game.herokuapp.com), so feel free to play.* **As of November, Heroku will be removing their free tier, and I have no plans to host this project elsewhere, so to play please download the repo.**
 
 ## What's the future for this project?
 I likely will not make any more additions or changes to the project unless there's a bug. If you have an idea and want to implement it, please feel free to clone this repo. Here are some ideas that I had but couldn't implement due to lack of time:
