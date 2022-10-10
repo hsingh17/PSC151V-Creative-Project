@@ -31,7 +31,7 @@ The relevance of my creative project to schemas is that the player must overcome
 Since this was a fairly simply project, I only used [ReactJS](https://reactjs.org/).
 
 ## How can you play? [*Deprecated*]
-**As of November, Heroku will be removing their free tier, and I have no plans to host this project elsewhere, so to play please download the repo and run the code with `npm run`.**
+**As of November, Heroku will be removing their free tier, and I have no plans to host this project elsewhere, so to play please download the repo and run the code with `npm start`.**
 
 ## What's the future for this project?
 I likely will not make any more additions or changes to the project unless there's a bug. If you have an idea and want to implement it, please feel free to clone this repo. Here are some ideas that I had but couldn't implement due to lack of time:
